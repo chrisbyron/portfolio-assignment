@@ -59,23 +59,25 @@ article h3 {
   text-align: center;
 }
 
-p#about {
-  line-height: 1.5;
+div#contact-list {
+  width: 30%;
+}
+
+ul.myUL {
+  display: inline-block;
   text-align: left;
 }
 
-p#portfolio {
-  line-height: 1.5;
-  text-align: center;
-}
-
-section#contact p {
-  line-height: 1.5;
+ul#contact {
+  display: inline-block;
   text-align: left;
 }
-
 li {
   text-align: left;
+}
+
+footer {
+  text-align: center;
 }
 
 /* Link Styling */
